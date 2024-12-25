@@ -1,6 +1,6 @@
 import { Text, View } from "react-native";
 
-export default function Explore() {
+export default function AccountInfo() {
   return (
     <View
       style={{
@@ -9,7 +9,7 @@ export default function Explore() {
         alignItems: "center",
       }}
     >
-      <Text>xplore</Text>
+      <Text>Account Info</Text>
     </View>
   );
 }
